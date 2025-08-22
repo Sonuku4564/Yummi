@@ -29,8 +29,8 @@
 
 Screenshots
 <div>
-<a href="../Yummi/frontend/public/Home-screen.jpg">
-<img src="../Yummi/frontend/public/Home-screen.jpg" alt="Home Dashboard" width="500">
+<a href="./frontend/public/Home-screen.jpg">
+<img src="./frontend/public/Home-screen.jpg" alt="Home Dashboard" width="500">
 </a>
 </div>
 
